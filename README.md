@@ -28,18 +28,20 @@ So, to keep a track of Rising Cases, Deaths and Predicting the Vaccination drive
     <li>Forecasting <li> Used Prophet for Forecasting</li> </li>
   </ul>
 <h3>Important Links</h3> 
+<ul>
 <a href="https://youtu.be/zZLX61FNfyU"</a> Youtube Link </br>
 <li><a href="https://www.kaggle.com/ibtesama/covid-19-the-second-wave-vaccination/data?select=worldometer_coronavirus_daily_data.csv"</a> Dataset 1 </br>
 <li><a href="https://www.kaggle.com/ibtesama/covid-19-the-second-wave-vaccination/data?select=worldometer_coronavirus_summary_data.csv"</a>Dataset 2</br>
 <li><a href="https://www.kaggle.com/ibtesama/covid-19-the-second-wave-vaccination/data?select=country_vaccinations.csv"</a>Dataset 3</br>
 <li><a href="https://www.kaggle.com/ibtesama/covid-19-the-second-wave-vaccination/data?select=country_vaccinations_by_manufacturer.csv"</a>Dataset 4</br>
+</ul>
 
   
 <h4>Challenges</h4>
 <ul>
   <li>I have collect datasets from different sources in order to get accurate prediction</li>
   <li>I had used Autoregressive Integrated Moving Average (ARIMA) for forecasting, but the result was not as accurate</li>
-  
+  </ul>
 
 
 <h4>Contributions</h4>
@@ -48,12 +50,7 @@ So, to keep a track of Rising Cases, Deaths and Predicting the Vaccination drive
 <li>I have used Prophet for Forecasting the time series data based on an additive model where non-linear trends are fit with yearly, weekely, and daily seasonality.</li>
 <li>I have Predicted the Data of Daily Cases, Total Vaccination and People Fully Vaccinated.</li>
 <li> Using this, will be able to predict the Vaccination Drive</li>
-
-
-
-
-
-
+</ul>
 
 
 
