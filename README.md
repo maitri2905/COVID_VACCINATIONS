@@ -29,11 +29,11 @@ So, to keep a track of Rising Cases, Deaths and Predicting the Vaccination drive
   </ul>
 <h3>Important Links</h3> 
 <a href="https://youtu.be/zZLX61FNfyU"</a> Youtube Link </br>
-<a href="https://www.kaggle.com/ibtesama/covid-19-the-second-wave-vaccination/data?select=worldometer_coronavirus_daily_data.csv"></a> Data1 </br>
-<li><a href="https://www.kaggle.com/ibtesama/covid-19-the-second-wave-vaccination/data?select=worldometer_coronavirus_summary_data.csv"></a>Data2</li>
-<li><a href="https://www.kaggle.com/ibtesama/covid-19-the-second-wave-vaccination/data?select=country_vaccinations.csv"></a>Data3</li>
-<li><a href="https://www.kaggle.com/ibtesama/covid-19-the-second-wave-vaccination/data?select=country_vaccinations_by_manufacturer.csv"></a>Data4</li>
-</ul>
+<a href="https://www.kaggle.com/ibtesama/covid-19-the-second-wave-vaccination/data?select=worldometer_coronavirus_daily_data.csv"</a> Data1 </br>
+<li><a href="https://www.kaggle.com/ibtesama/covid-19-the-second-wave-vaccination/data?select=worldometer_coronavirus_summary_data.csv"</a>Data2</br>
+<li><a href="https://www.kaggle.com/ibtesama/covid-19-the-second-wave-vaccination/data?select=country_vaccinations.csv"</a>Data3</br>
+<li><a href="https://www.kaggle.com/ibtesama/covid-19-the-second-wave-vaccination/data?select=country_vaccinations_by_manufacturer.csv"</a>Data4</br>
+
   
 <h4>Challenges</h4>
 <ul>
